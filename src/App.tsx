@@ -9,6 +9,7 @@ import './global.css'
 const posts:PostType[] = [
   {
     id: 1,
+    
     author:{
       avatarUrl: 'https://github.com/pecboll.png',
       name: 'Igor Azevedo',
